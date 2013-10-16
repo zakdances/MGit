@@ -15,6 +15,7 @@
     self = [super init];
     if (self) {
         self.id = [NSUUID UUID];
+		self.children = [NSMutableArray array];
     }
     return self;
 }
