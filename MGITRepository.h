@@ -7,7 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import "MGITStage.h"
+
 @class MGITRepository;
 @class MGITCommit;
 
